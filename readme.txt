@@ -1,4 +1,4 @@
-
+//i'am a good coder,maybe not now,
 //////////
 //this is my first git file
 /////////
