@@ -1,3 +1,5 @@
+//this is a MFC project,the main founction is connect to the remote Raspbery PI and show to us through MFC window.
+
 ================================================================================
 MICROSOFT 基础类库: RaspCam 项目概述
 ===============================================================================
