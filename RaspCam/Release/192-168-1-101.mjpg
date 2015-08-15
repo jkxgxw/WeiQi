@@ -1,0 +1,9 @@
+HTTP/1.1 302 Temporarily Moved
+Date: Thu, 28 May 2015 03:35:46 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: http://login.ccnu.edu.cn/?cmd=login&mac=20:68:9d:1c:32:f5&ip=10.146.79.226&essid=CCNU&apname=AP-9%23-WLL-F11-1135&apgroup=9%23JXL-AP-GROUP&url=http%3A%2F%2F192%2E168%2E1%2E101%3A8080%2F%3Faction%3Dstream
+Content-Length: 0
+Connection: close
+Content-Type: text/html
+
